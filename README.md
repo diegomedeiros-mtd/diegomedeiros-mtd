@@ -28,8 +28,7 @@ Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja
 <div align="center">
     <h3> 💻 Um reseumo da minha jornada como DEV </h3>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diegomedeiros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-     
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomedeiros-mtd&layout=compact&langs_count=7&theme=dark"/>
+   
 </div>
 
 <br>
@@ -45,13 +44,6 @@ Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja
 </div>
  
 ##
-
-<div align="center">
-       
-![Snake animation](https://github.com/DiegoImperiano/diegomedeiros-mtd/blob/output/github-contribution-grid-snake.svg)
-      
-</div>
-
                                                                                                        
 <div align="center">
   <strong>
